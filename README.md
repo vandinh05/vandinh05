@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Ho Van Dinh
 
-<!--
-**vandinh05/vandinh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Management · Data · AI
 
-Here are some ideas to get you started:
+I'm a Data Science student at **Ho Chi Minh City University of Transport (UTH)**, interested in Data Engineering, Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines technical development with hands-on experience in operations management, team coordination, and problem-solving.
+
+### About Me
+
+- 🎓 Studying Data Science at UTH
+- 💻 Interested in Data Engineering, AI Engineering, and Software Development
+- 📊 Building practical projects involving data pipelines, automation, and AI
+- 🤝 Experienced in team leadership, operations, and communication
+- 🌱 Continuously learning and improving through real-world projects
+
+### Technical Interests
+
+**Data:** Python · SQL · Data Processing · Data Pipelines
+
+**Software:** Git · GitHub · Docker · Backend Development
+
+**AI:** Machine Learning · AI Engineering · Developer Tools
+
+**Beyond Tech:** Team Management · Business Operations · Communication
+
+### What I'm Working On
+
+- **RoomBeacons** — A data-driven rental property discovery system.
+- **TraceGuard AI** — A developer tool concept for understanding the impact of code changes.
+- **Personal Portfolio** — A space to showcase my experience across Management, Data, and AI.
+
+### Connect
+
+- **GitHub:** [@vandinh05](https://github.com/vandinh05)
+- **Email:** hovandinh055@gmail.com
+
+*Building practical solutions at the intersection of people, data, and technology.*
